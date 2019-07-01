@@ -19,8 +19,8 @@ if(string === lowercase){
   return "I can't hear you!"}
 else if(string === uppercase){
   return "YES INDEED!"}
-else(string === "I love you, Grandma.")
-  return "I love you, too"
+else(string === "I love you, Grandma."){
+  return "I love you, too"}
 }
 
 
